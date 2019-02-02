@@ -26,4 +26,8 @@ people = ['John', 'Paul', 'Sara', 'Susan']
 #     print(f'Number: {i}')
 
 # While loops execute a set of statements as long as a condition is true.
-t
+
+# count = 0
+# while count <= 10:
+#     print(f'Count: {count}')
+#     count += 1
